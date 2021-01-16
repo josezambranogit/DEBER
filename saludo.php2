@@ -1,0 +1,4 @@
+<?php
+echo "hola ";
+echo "mi nombre es jose ";
+echo "mi apeelido es zambrano ";
